@@ -7,7 +7,7 @@ copyright: 'Copyleft 2018 Tiago D Cipriano'
 
 
 # Repositóri
-repo_url: https://github.com/TiagoTi/TiagoTi.github.io
+repo_url: https://github.com/TiagoTi/marina-doc
 repo_name: TiagoTi.github.io
 edit_uri: ./
 remote_branch: origin
@@ -25,6 +25,8 @@ pages:
       - Requisitos: 'guia-desenvolvimento/requisitos.md'
     - Guia do Usuario:
         - Desenvolvedor: 'guia-usuario/1-desenvolvedor.md'
+    - CheckList:
+        - Agradecimentos: 'checklist/agradecimentos.md'
     - Sobre: about.md
 
 # Theme
