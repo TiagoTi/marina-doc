@@ -1,0 +1,45 @@
+#Informações do projeto
+site_name: Marina Chatterbot
+site_description: Documentação do projeto Marina Chatterbot
+site_author: Tiago D Cipriano <tiago@ti2.net.br>
+site_url: https://tiagoti.github.io/marina/
+copyright: 'Copyleft 2018 Tiago D Cipriano'
+
+
+# Repositóri
+repo_url: https://github.com/TiagoTi/TiagoTi.github.io
+repo_name: TiagoTi.github.io
+edit_uri: ./
+remote_branch: origin
+remote_name: origin
+
+
+# Analytics
+#google_analytics: ['UA-xxxxxxxx', 'auto']
+
+docs_dir: 'mds'
+pages:
+    - Projeto: index.md
+    - Guia de Desenvolvimento:
+      - Requisitos: 'guia-desenvolvimento/1-requisitos.md'
+    - Guia do Usuario:
+        - Desenvolvedor: 'guia-usuario/1-desenvolvedor.md'
+    - Sobre: about.md
+
+# Theme
+theme:
+    name: cinder
+    language: 'pt'
+    palette:
+        primary: 'teal'
+        accent: 'teal'
+    font:
+        text: 'Noto Sans'
+        code: 'Noto Mono'
+    feature:
+        tabs: true
+
+
+# Extra
+extra:
+    version: 0.0.0
