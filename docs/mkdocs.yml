@@ -2,7 +2,7 @@
 site_name: Marina Chatterbot
 site_description: Documentação do projeto Marina Chatterbot
 site_author: Tiago D Cipriano <tiago@ti2.net.br>
-site_url: https://tiagoti.github.io/marina/
+site_url: https://tiagoti.github.io/marina-doc/docs/site/
 copyright: 'Copyleft 2018 Tiago D Cipriano'
 
 
@@ -23,6 +23,7 @@ pages:
     - Guia de Desenvolvimento:
       - Tecnologias: 'guia-desenvolvimento/tecnologias.md'
       - Requisitos: 'guia-desenvolvimento/requisitos.md'
+      - Como Fazer: 'guia-desenvolvimento/como-fazer.md'
     - Guia do Usuario:
         - Desenvolvedor: 'guia-usuario/1-desenvolvedor.md'
     - CheckList:
