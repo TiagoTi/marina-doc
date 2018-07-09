@@ -23,6 +23,7 @@
 
 ## GitHub
 
-* `Backend`&nbsp;&nbsp;&nbsp;[github.com/TiagoTi/marina-spring](https://github.com/TiagoTi/marina-spring)
-* `Frontend`&nbsp;[github.com/TiagoTi/marina-react](https://github.com/TiagoTi/marina-react)
-* `DevUtils`&nbsp;[github.com/TiagoTi/marina-dev-utils](https://github.com/TiagoTi/marina-dev-utils)
+* `Backend`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/TiagoTi/marina-spring](https://github.com/TiagoTi/marina-spring)
+* `Frontend`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/TiagoTi/marina-react](https://github.com/TiagoTi/marina-react)
+* `DevUtils`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/TiagoTi/marina-dev-utils](https://github.com/TiagoTi/marina-dev-utils)
+* `Documentation`&nbsp;[github.com/TiagoTi/marina-doc](https://github.com/TiagoTi/marina-doc)
