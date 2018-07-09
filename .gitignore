@@ -1,3 +1,5 @@
 TiagoTi.github.io/
 tgGetilio/
 env/
+.vscode/
+**/*.log
