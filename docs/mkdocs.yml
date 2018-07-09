@@ -21,7 +21,8 @@ docs_dir: 'mds'
 pages:
     - Projeto: index.md
     - Guia de Desenvolvimento:
-      - Requisitos: 'guia-desenvolvimento/1-requisitos.md'
+      - Tecnologias: 'guia-desenvolvimento/tecnologias.md'
+      - Requisitos: 'guia-desenvolvimento/requisitos.md'
     - Guia do Usuario:
         - Desenvolvedor: 'guia-usuario/1-desenvolvedor.md'
     - Sobre: about.md
