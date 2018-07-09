@@ -51,6 +51,76 @@
             "title": "Requisitos"
         },
         {
+            "location": "/guia-desenvolvimento/como-fazer/",
+            "text": "Como Fazer\n\n\nRodar o Frontend\n\n\nEm desenvolvimento\n\n\nAcessar a pasta do projeto\nsetar as seguintes variaveis de ambinte:\n\n\n# 'endere\u00e7o do servidor da api , formato: [protocolo]://[host]:[porta]'\nexport REACT_APP_BACKEND_HOST=http://localhost:8080\n\n\n\n\nEm produ\u00e7\u00e3o\n\n\nHoje a aplica\u00e7\u00e3o tem como C.I o circle.ci\n\u00e9 importante setar a seghinte variavel de ambinete com o endpoint final de puplica\u00e7\u00e3o, exemplo \nPUBLIC_URL=https://meusite.com.br\n\n\nRodar o Backend\n\n\nEm desenvolvimento\n\n\nEm produ\u00e7\u00e3o\n\n\nRodar o Backend\n\n\nEm desenvolvimento\n\n\nEm produ\u00e7\u00e3o\n\n\nRodar a Documenta\u00e7\u00e3o\n\n\nBDD\n\n\nPre requisitos\nbaixar o e colocar no path do sistema operacional\n\nexport PATH=$PATH:/home/xxxxx/Downloads/geckodriver-v0.20.1-linux64\n\n\nVariaveis de ambiente\n\n\n# spring\nexport SECRET_MARINA_SERVER=patati-patata\n\n# mysql\nexport MYSQL_ROOT_PASSWORD=root\nexport MYSQL_USERNAME=user\nexport MYSQL_PASSWORD=rooot\nexport MYSQL_HOST=localhost\nexport MYSQL_PORT=3306\nexport MYSQL_DATABASE=database\n\n#hibernat\nexport DATASOURCE_URL=\"jdbc:mysql://$MYSQL_HOST:$MYSQL_PORT/$MYSQL_DATABASE\"\nexport HIBERNATE_DDL=update\n\n#watson marina\nexport WATSON_CONVERSATION_WORKSPACE_ID=xxxxxxxxx-xxxx-xxxx-xxxxx-xxxxxxxxxxxx\nexport WATSON_CONVERSATION_USERNAME=xxxxx-xxxxxx-xxxx-xxxx-xxxxxxxxxxxxx\nexport WATSON_CONVERSATION_PASSWORD=xxxxxxxxxx\n\n#sqs\nexport MARINA_QUEUE_REGION=us-east-1\nexport MARINA_QUEUE_URL=https://sqs.us-east-1.amazonaws.com/000000000000/QueueName\n\n#aws api (backend api)\nexport REACT_APP_BACKEND_HOST=http://localhost:8080\n\n#React\nexport PUBLIC_URL=http://localhost:3000",
+            "title": "Como Fazer"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#como-fazer",
+            "text": "",
+            "title": "Como Fazer"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#rodar-o-frontend",
+            "text": "",
+            "title": "Rodar o Frontend"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#em-desenvolvimento",
+            "text": "Acessar a pasta do projeto\nsetar as seguintes variaveis de ambinte:  # 'endere\u00e7o do servidor da api , formato: [protocolo]://[host]:[porta]'\nexport REACT_APP_BACKEND_HOST=http://localhost:8080",
+            "title": "Em desenvolvimento"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#em-producao",
+            "text": "Hoje a aplica\u00e7\u00e3o tem como C.I o circle.ci\n\u00e9 importante setar a seghinte variavel de ambinete com o endpoint final de puplica\u00e7\u00e3o, exemplo \nPUBLIC_URL=https://meusite.com.br",
+            "title": "Em produ\u00e7\u00e3o"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#rodar-o-backend",
+            "text": "",
+            "title": "Rodar o Backend"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#em-desenvolvimento_1",
+            "text": "",
+            "title": "Em desenvolvimento"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#em-producao_1",
+            "text": "",
+            "title": "Em produ\u00e7\u00e3o"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#rodar-o-backend_1",
+            "text": "",
+            "title": "Rodar o Backend"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#em-desenvolvimento_2",
+            "text": "",
+            "title": "Em desenvolvimento"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#em-producao_2",
+            "text": "",
+            "title": "Em produ\u00e7\u00e3o"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#rodar-a-documentacao",
+            "text": "",
+            "title": "Rodar a Documenta\u00e7\u00e3o"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#bdd",
+            "text": "Pre requisitos\nbaixar o e colocar no path do sistema operacional export PATH=$PATH:/home/xxxxx/Downloads/geckodriver-v0.20.1-linux64",
+            "title": "BDD"
+        },
+        {
+            "location": "/guia-desenvolvimento/como-fazer/#variaveis-de-ambiente",
+            "text": "# spring\nexport SECRET_MARINA_SERVER=patati-patata\n\n# mysql\nexport MYSQL_ROOT_PASSWORD=root\nexport MYSQL_USERNAME=user\nexport MYSQL_PASSWORD=rooot\nexport MYSQL_HOST=localhost\nexport MYSQL_PORT=3306\nexport MYSQL_DATABASE=database\n\n#hibernat\nexport DATASOURCE_URL=\"jdbc:mysql://$MYSQL_HOST:$MYSQL_PORT/$MYSQL_DATABASE\"\nexport HIBERNATE_DDL=update\n\n#watson marina\nexport WATSON_CONVERSATION_WORKSPACE_ID=xxxxxxxxx-xxxx-xxxx-xxxxx-xxxxxxxxxxxx\nexport WATSON_CONVERSATION_USERNAME=xxxxx-xxxxxx-xxxx-xxxx-xxxxxxxxxxxxx\nexport WATSON_CONVERSATION_PASSWORD=xxxxxxxxxx\n\n#sqs\nexport MARINA_QUEUE_REGION=us-east-1\nexport MARINA_QUEUE_URL=https://sqs.us-east-1.amazonaws.com/000000000000/QueueName\n\n#aws api (backend api)\nexport REACT_APP_BACKEND_HOST=http://localhost:8080\n\n#React\nexport PUBLIC_URL=http://localhost:3000",
+            "title": "Variaveis de ambiente"
+        },
+        {
             "location": "/guia-usuario/1-desenvolvedor/",
             "text": "",
             "title": "Desenvolvedor"
