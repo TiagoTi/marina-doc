@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Projeto: Marina Chatterbot\n\n\nEstrutura do Projeto\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nEstrutura da Documenta\u00e7\u00e3o\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nEstrutura do Trabalho de Gradua\u00e7\u00e3o\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nGitHub\n\n\n\n\nBackend\n\u00a0\u00a0\u00a0\ngithub.com/TiagoTi/marina-spring\n\n\nFrontend\n\u00a0\ngithub.com/TiagoTi/marina-react\n\n\nDevUtils\n\u00a0\ngithub.com/TiagoTi/marina-dev-utils",
+            "text": "Projeto: Marina Chatterbot\n\n\nEstrutura do Projeto\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nEstrutura da Documenta\u00e7\u00e3o\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nEstrutura do Trabalho de Gradua\u00e7\u00e3o\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nGitHub\n\n\n\n\nBackend\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\ngithub.com/TiagoTi/marina-spring\n\n\nFrontend\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\ngithub.com/TiagoTi/marina-react\n\n\nDevUtils\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\ngithub.com/TiagoTi/marina-dev-utils\n\n\nDocumentation\n\u00a0\ngithub.com/TiagoTi/marina-doc",
             "title": "Projeto"
         },
         {
@@ -27,7 +27,7 @@
         },
         {
             "location": "/#github",
-            "text": "Backend \u00a0\u00a0\u00a0 github.com/TiagoTi/marina-spring  Frontend \u00a0 github.com/TiagoTi/marina-react  DevUtils \u00a0 github.com/TiagoTi/marina-dev-utils",
+            "text": "Backend \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 github.com/TiagoTi/marina-spring  Frontend \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 github.com/TiagoTi/marina-react  DevUtils \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 github.com/TiagoTi/marina-dev-utils  Documentation \u00a0 github.com/TiagoTi/marina-doc",
             "title": "GitHub"
         },
         {
